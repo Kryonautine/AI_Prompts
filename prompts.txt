@@ -1,0 +1,11 @@
+Perform the following actions: 
+1 - Summarize the following text delimited by triple \
+backticks with 1 sentence.
+2 - Translate the summary into Telugu.
+3 - List each name in the Telugu summary.
+4 - Output a json object that contains the following \
+keys: telugu_summary, num_names.
+
+Separate your answers with line breaks.
+
+Text:
